@@ -149,7 +149,6 @@
   }
   
   .Mozila {
-    font-weight: bold;
     font-size: 30px;
     color: rgba(255, 255, 255, 0.5);
   }
@@ -157,21 +156,16 @@
   .Google {
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
     font-size: 30px;
-    color: rgba(255, 255, 255, 0.397);
-  }
-  
-  .Naver {
-    color: #d3d3d3;
-    font-size: 30px;
+    color: rgba(255, 255, 255, 0.781);
   }
   
   .daumkakao {
-    font-size: 25px;
-    color: rgba(255, 255, 255, 0.377);
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.5);
   }
   
   .Airtel {
-    font-size: 28px;
+    font-size: 30px;
     font-family:
       "Trebuchet MS",
       "Lucida Sans Unicode",
