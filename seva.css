@@ -535,9 +535,9 @@
   }
   
   .container main .partners-list .partners .Mozila {
-    font-weight: bold;
     font-size: 30px;
     color: rgba(255, 255, 255, 0.5);
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   }
   
   .container main .partners-list .partners .Google {
@@ -547,19 +547,21 @@
   }
   
   .container main .partners-list .partners .Naver {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
     color: #d3d3d3;
     font-size: 30px;
   }
   
   .container main .partners-list .partners .daumkakao {
-    font-size: 25px;
-    color: rgba(255, 255, 255, 0.377);
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.5);
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   }
   
   .container main .partners-list .partners .Airtel {
-    font-size: 28px;
-    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
-    color: rgba(255, 255, 255, 0.781);
+    font-size: 30px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: rgba(255, 255, 255, 0.397);
   }
   
   @media screen and (max-width: 768px) {
